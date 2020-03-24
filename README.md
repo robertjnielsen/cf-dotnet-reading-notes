@@ -13,6 +13,7 @@ This repository contains my reading notes and reading assignments from the Code 
 3. [System.IO](system-io.md)
 4. [Classes & Objects](classes-and-objects.md)
 5. [Linked Lists](linked-lists.md)
+6. [Interfaces](interfaces.md)
 
 #### Weekly Reviews
 1. [Week One Review](week-one-review.md)
