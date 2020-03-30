@@ -18,6 +18,7 @@ This repository contains my reading notes and reading assignments from the Code 
 8. [Enums](enums.md)
 9. [LINQ](linq.md)
 10. [Stacks And Queues](stacks-and-queues.md)
+11. [MVC](mvc.md)
 
 #### Weekly Reviews
 1. [Week One Review](week-one-review.md)
