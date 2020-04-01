@@ -20,7 +20,7 @@ This repository contains my reading notes and reading assignments from the Code 
 10. [Stacks And Queues](/readings/stacks-and-queues.md)
 11. [MVC](/readings/mvc.md)
 12. [Relational Databases](/readings/relational-databases.md)
-13. [EF Core](entity-framework-core.md)
+13. [EF Core](/readings/entity-framework-core.md)
 
 #### Weekly Reviews
 1. [Week One Review](/readings/week-one-review.md)
