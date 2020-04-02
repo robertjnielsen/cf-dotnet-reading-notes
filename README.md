@@ -21,6 +21,7 @@ This repository contains my reading notes and reading assignments from the Code 
 11. [MVC](/readings/mvc.md)
 12. [Relational Databases](/readings/relational-databases.md)
 13. [EF Core](/readings/entity-framework-core.md)
+14. [EF Core 2 - Data Seeding & Tag Helpers](/readings/ef-core-db-seeding.md)
 
 #### Weekly Reviews
 1. [Week One Review](/readings/week-one-review.md)
