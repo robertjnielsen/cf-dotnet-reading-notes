@@ -24,6 +24,7 @@ This repository contains my reading notes and reading assignments from the Code 
 14. [EF Core 2 - Data Seeding & Tag Helpers](/readings/ef-core-db-seeding.md)
 15. [Trees](/readings/trees.md)
 16. [SOLID](/readings/solid.md)
+17. [Views](/readings/views.md)
 
 #### Weekly Reviews
 1. [Week One Review](/readings/week-one-review.md)
