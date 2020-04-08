@@ -25,6 +25,7 @@ This repository contains my reading notes and reading assignments from the Code 
 15. [Trees](/readings/trees.md)
 16. [SOLID](/readings/solid.md)
 17. [Views](/readings/views.md)
+18. [User Secrets](/readings/user-secrets.md)
 
 #### Weekly Reviews
 1. [Week One Review](/readings/week-one-review.md)
