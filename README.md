@@ -27,6 +27,7 @@ This repository contains my reading notes and reading assignments from the Code 
 17. [Views](/readings/views.md)
 18. [User Secrets](/readings/user-secrets.md)
 19. [Identity](/readings/identity.md)
+20. [Razor Pages](/readings/razor-pages.md)
 
 #### Weekly Reviews
 1. [Week One Review](/readings/week-one-review.md)
