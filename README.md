@@ -29,6 +29,7 @@ This repository contains my reading notes and reading assignments from the Code 
 19. [Identity](/readings/identity.md)
 20. [Razor Pages](/readings/razor-pages.md)
 21. [Claims-based Authorization](/readings/auth-claims.md)
+22. [Policies](/readings/policies.md)
 
 #### Weekly Reviews
 1. [Week One Review](/readings/week-one-review.md)
