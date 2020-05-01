@@ -33,6 +33,7 @@ This repository contains my reading notes and reading assignments from the Code 
 23. [Hash Tables](/readings/hash-tables.md)
 24. [View Components](/readings/view-components.md)
 25. [SendGrid](/readings/sendgrid.md)
+26. [Auth<span></span>.Net](/readings/auth-net.md)
 
 #### Weekly Reviews
 1. [Week One Review](/readings/week-one-review.md)
